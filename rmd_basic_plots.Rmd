@@ -1,6 +1,6 @@
 ---
 title: "Basic Plots"
-author: "Jeff Goldsmith"
+author: "Zhuodiao Kuang"
 date: 2019-09-10
 output: html_document
 ---
